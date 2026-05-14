@@ -7,5 +7,3 @@ git commit -m
 
 #원격 repository main 브랜치에 소스를 업로드
 git push origin main
-
-수정
