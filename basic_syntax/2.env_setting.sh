@@ -19,3 +19,8 @@ git remote set-url origin 레포주소
 
 # 원격지 주소 확인 
 git remote -v
+
+# 사용자 변경 방법
+# 변경환경(global, local)
+git config --{{변경환경}} user.name "사용자명"
+git config --{{변경환경}} user.email "이메일주소"
